@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Complexo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to <span class="neon">Complexo</span></h1>
+        <p class="owner">Owned by: <span class="highlight">Caçula</span></p>
+        
+        <div class="scroll-frame">
+            <p>
+                Complexo is a growing Discord server where amazing people come together to chat, share ideas, and build a vibrant community. 
+                <br><br>
+                Our server is still small but full of potential. We're looking forward to growing with people like you who can contribute to making Complexo a fun and engaging place. 
+                <br><br>
+                Join us today and help shape the future of Complexo! Together, we'll create something extraordinary. 
+            </p>
+        </div>
+        
+        <button id="joinButton">Join Complexo</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
